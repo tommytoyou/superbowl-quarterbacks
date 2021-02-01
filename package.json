@@ -1,0 +1,23 @@
+{
+  "name": "superbowl-quarterbacks",
+  "version": "1.0.0",
+  "description": "codealong express views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommytoyou/superbowl-quarterbacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommytoyou/superbowl-quarterbacks/issues"
+  },
+  "homepage": "https://github.com/tommytoyou/superbowl-quarterbacks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
